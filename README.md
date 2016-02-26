@@ -10,4 +10,6 @@ my website
           <li><a href="contactus.html">Contact Us</a></li>
     </ul>
 </div>
-
+<div class="footer">
+<p>&copy; 2015 The Coding School</p>
+</div>
