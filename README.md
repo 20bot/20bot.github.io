@@ -1,2 +1,13 @@
 # 20bot.github.io
 my website
+<div class="Hheader">
+    <a href="/"><img src="logo.png" /></a>
+    <h1>The Coding School</h1>
+    <ul class="nav">
+          <li><a href="index.html">Home</a></li>
+          <li><a href="index.html">Products</a></li>
+          <li><a href="history.html">History<?a></li>
+          <li><a href="contactus.html">Contact Us</a></li>
+    </ul>
+</div>
+
